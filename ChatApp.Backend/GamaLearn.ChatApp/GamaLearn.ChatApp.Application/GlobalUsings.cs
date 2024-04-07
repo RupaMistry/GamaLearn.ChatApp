@@ -1,0 +1,12 @@
+﻿global using GamaLearn.ChatApp.Application.Core;
+global using GamaLearn.ChatApp.Domain;
+global using GamaLearn.ChatApp.Domain.Authentication;
+global using GamaLearn.ChatApp.Domain.Chat;
+global using GamaLearn.ChatApp.Domain.Configuration;
+global using GamaLearn.ChatApp.Domain.Core;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.Extensions.Options;
+global using Microsoft.IdentityModel.Tokens;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Security.Claims;
+global using System.Text;
